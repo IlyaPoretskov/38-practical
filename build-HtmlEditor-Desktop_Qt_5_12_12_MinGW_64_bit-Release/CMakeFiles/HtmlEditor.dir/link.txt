@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\HtmlEditor.dir/objects.a
+C:\Qt\Qt5.12.12\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\HtmlEditor.dir/objects.a @CMakeFiles\HtmlEditor.dir\objects1.rsp
+C:\Qt\Qt5.12.12\Tools\mingw730_64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\HtmlEditor.dir/objects.a -Wl,--no-whole-archive -o HtmlEditor.exe -Wl,--out-implib,libHtmlEditor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HtmlEditor.dir\linkLibs.rsp

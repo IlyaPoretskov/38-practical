@@ -1,0 +1,4 @@
+C:/Skb30-40/38-practical/build-HtmlEditor-Desktop_Qt_5_12_12_MinGW_64_bit-Release/CMakeFiles/HtmlEditor.dir
+C:/Skb30-40/38-practical/build-HtmlEditor-Desktop_Qt_5_12_12_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Skb30-40/38-practical/build-HtmlEditor-Desktop_Qt_5_12_12_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Skb30-40/38-practical/build-HtmlEditor-Desktop_Qt_5_12_12_MinGW_64_bit-Release/CMakeFiles/HtmlEditor_autogen.dir
